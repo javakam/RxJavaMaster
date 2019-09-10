@@ -1,0 +1,14 @@
+*.iml
+.gradle
+.idea
+*/build
+app/build
+sqrxjava2-yff/build
+sqrxjava2_rwx/build
+
+/local.properties
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
