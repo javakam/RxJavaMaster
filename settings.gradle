@@ -1,2 +1,2 @@
-include ':app', ':sqrxjava2_rwx', ':sqrxjava2-yff'
+include ':app', ':rxjava2_rwx', ':rxjava2-yff'
 rootProject.name='RxJavaComposite'
